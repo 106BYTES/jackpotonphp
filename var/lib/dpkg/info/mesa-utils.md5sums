@@ -1,0 +1,10 @@
+c7d8481b895a6dba8be2c0d37ebbe5f4  usr/bin/glxdemo
+30ae65c2879f273ab3a4391de931cfaa  usr/bin/glxgears
+94ae54e5f0b1941361d9493721a8c369  usr/bin/glxheads
+74441b1a15d7f1b3d26586fbb2a6a670  usr/bin/glxinfo
+a63c95f6d5d2c581a6e1fa6da7ed1804  usr/share/doc/mesa-utils/changelog.Debian.gz
+a89f012fc2d35ef376d2467846a1da68  usr/share/doc/mesa-utils/copyright
+a6aa72bbb6441dd3b72e1c8a19945b50  usr/share/man/man1/glxdemo.1.gz
+e233756492cac6c4feaac46fd237d341  usr/share/man/man1/glxgears.1.gz
+831c3b597cdff3138d84b549c115601d  usr/share/man/man1/glxheads.1.gz
+5e6d09d2f163639e3fe2c0a6d734fae0  usr/share/man/man1/glxinfo.1.gz

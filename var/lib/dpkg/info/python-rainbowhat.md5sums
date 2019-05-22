@@ -1,0 +1,15 @@
+303bf6b86f94e72908caddb379c83b8c  usr/lib/python2.7/dist-packages/rainbowhat-0.0.2.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python2.7/dist-packages/rainbowhat-0.0.2.egg-info/dependency_links.txt
+02c3f8a57ff9195086052b7528672175  usr/lib/python2.7/dist-packages/rainbowhat-0.0.2.egg-info/requires.txt
+3f4e065f42edea8a7ad7fd7af1be67c0  usr/lib/python2.7/dist-packages/rainbowhat-0.0.2.egg-info/top_level.txt
+b8ce12b64200295aea36d933e90c31c8  usr/lib/python2.7/dist-packages/rainbowhat/HT16K33.py
+7d21896c86120de4861c759d61c29cbc  usr/lib/python2.7/dist-packages/rainbowhat/__init__.py
+3511657f8e15915652b5d7b6d12a23bf  usr/lib/python2.7/dist-packages/rainbowhat/alphanum4.py
+d81e24dcaae78e9b9705522f2f5debea  usr/lib/python2.7/dist-packages/rainbowhat/apa102.py
+70cbe7b8703644d61fbce50bf934ba89  usr/lib/python2.7/dist-packages/rainbowhat/bmp280.py
+77030a79253d74f47b42a741dcdb63b9  usr/lib/python2.7/dist-packages/rainbowhat/buzzer.py
+352b23e8bc90ce9ff48105fcdfd7f861  usr/lib/python2.7/dist-packages/rainbowhat/i2c_bus.py
+dbc7d96235bdc980d697c0af9176c4f8  usr/lib/python2.7/dist-packages/rainbowhat/lights.py
+fd56f3d1ea44f0baf1b9336a0cea5cc5  usr/lib/python2.7/dist-packages/rainbowhat/touch.py
+4c34eae2d45f048139bb8e003ee611e6  usr/share/doc/python-rainbowhat/changelog.gz
+2f7e2f6d9e300cdf86092d4228e8cef1  usr/share/doc/python-rainbowhat/copyright

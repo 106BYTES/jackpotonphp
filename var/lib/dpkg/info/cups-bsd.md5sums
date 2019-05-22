@@ -1,0 +1,16 @@
+9ffb6c548652a0e4eccf635a04e907ef  usr/bin/lpq
+642c69a960b996a2eef9672d52801e10  usr/bin/lpr
+26d24d2ee001ec3c6180f6a7d06b45cf  usr/bin/lprm
+8724df052a2cc84c77cd2ed462e220ea  usr/sbin/lpc
+7d5e68be141ee611ab33f1973ee2afa5  usr/share/man/de/man1/lpq.1.gz
+45736a253b0a7a803723ea5734aad300  usr/share/man/de/man1/lpr.1.gz
+1ea548f9f5433d0e9856ebe298f1db73  usr/share/man/de/man1/lprm.1.gz
+beebbe71500ca128c574e9335c571c6e  usr/share/man/de/man8/lpc.8.gz
+aa72f02e137cdc2c62df4b0ae00e4f29  usr/share/man/fr/man1/lpq.1.gz
+4a69252909f69f8789b0971042e0245d  usr/share/man/fr/man1/lpr.1.gz
+3cfed7f3af1c7b662316a9175fb3f3b8  usr/share/man/fr/man1/lprm.1.gz
+5d058963c8e48b64787495a70cbef0c9  usr/share/man/fr/man8/lpc.8.gz
+b409a564c721a4c2f6d3ce1659a7536f  usr/share/man/man1/lpq.1.gz
+ec97658a24a78336392cee7a3689a79f  usr/share/man/man1/lpr.1.gz
+ed84c59e0bd543ee34faf4d12846d8da  usr/share/man/man1/lprm.1.gz
+50b8ac8f92638819cb13577f8572a8d2  usr/share/man/man8/lpc.8.gz

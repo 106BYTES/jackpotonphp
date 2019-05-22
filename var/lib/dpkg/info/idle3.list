@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/bin
+/usr/bin/idle3
+/usr/share
+/usr/share/applications
+/usr/share/applications/idle3.desktop
+/usr/share/doc
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/idle3
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/idle3.1.gz
+/usr/share/pixmaps
+/usr/share/doc/idle3
+/usr/share/pixmaps/idle3.xpm

@@ -1,0 +1,9 @@
+eba0c61664ff74e4a015372a33b32856  lib/udev/rules.d/95-wedo.rules
+b1ad429bb3c17c00bc0ed9b5eeb7c392  usr/lib/scratch/plugins/so.CameraPlugin
+c9abaf9ce21d6ef8fcad1e9d669ccc64  usr/lib/scratch/plugins/so.ScratchPlugin
+51cb2b8ebd6072394ddedb10f41ceb55  usr/lib/scratch/plugins/so.UnicodePlugin
+c4501ebc184af1ccfca59be4c23cb651  usr/lib/scratch/plugins/so.WeDoPlugin
+0833100ce1c06e387fa927c4a2922344  usr/share/doc/squeak-plugins-scratch/buildinfo_armhf.gz
+b6c660ef4284f3afd6a2276a955b304f  usr/share/doc/squeak-plugins-scratch/changelog.Debian.gz
+c2c663c2be3f658edf113bfeab374a1f  usr/share/doc/squeak-plugins-scratch/copyright
+e4e4650fd768490edcbf4eece7b28433  usr/share/doc/squeak-plugins-scratch/scripts/run-scratch

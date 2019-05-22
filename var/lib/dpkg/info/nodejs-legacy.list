@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/bin
+/usr/share
+/usr/share/doc
+/usr/share/doc/nodejs-legacy
+/usr/share/doc/nodejs-legacy/AUTHORS.gz
+/usr/share/doc/nodejs-legacy/buildinfo_all.gz
+/usr/share/doc/nodejs-legacy/changelog.Debian.gz
+/usr/share/doc/nodejs-legacy/changelog.gz
+/usr/share/doc/nodejs-legacy/copyright
+/usr/share/man
+/usr/share/man/man1
+/usr/bin/node
+/usr/share/man/man1/node.1.gz

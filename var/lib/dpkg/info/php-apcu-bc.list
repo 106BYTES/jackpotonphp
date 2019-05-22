@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/php
+/usr/lib/php/20151012
+/usr/lib/php/20151012/apc.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/php-apcu-bc
+/usr/share/doc/php-apcu-bc/README.md
+/usr/share/doc/php-apcu-bc/copyright
+/usr/share/doc/php-apcu-bc/changelog.Debian.gz
+/etc
+/etc/php
+/etc/php/7.0
+/etc/php/7.0/mods-available
+/etc/php/7.0/mods-available/apcu_bc.ini

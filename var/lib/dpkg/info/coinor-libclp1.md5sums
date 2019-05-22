@@ -1,0 +1,5 @@
+281e731b3569e27c5850d0a3f85111c5  usr/lib/arm-linux-gnueabihf/libClp.so.1.12.10
+c8d8e8db3fa1a64972af4acf55c56355  usr/lib/arm-linux-gnueabihf/libOsiClp.so.1.12.10
+dbed6a2fc16d83c8e273e219da77b011  usr/share/doc/coinor-libclp1/changelog.Debian.gz
+9bc7be6477131775c1366110953b8050  usr/share/doc/coinor-libclp1/copyright
+62c20c0030a403f87495e378256313c6  usr/share/lintian/overrides/coinor-libclp1

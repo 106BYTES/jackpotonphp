@@ -1,0 +1,409 @@
+Aug 16 01:40:35 raspberrypi kernel: [    0.000000] On node 0 totalpages: 242688
+Aug 16 01:40:35 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6eec0, node_mem_map ba3a1000
+Aug 16 01:40:35 raspberrypi kernel: [    0.000000]   Normal zone: 2133 pages used for memmap
+Aug 16 01:40:35 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Aug 16 01:40:35 raspberrypi kernel: [    0.000000]   Normal zone: 242688 pages, LIFO batch:31
+Aug 16 01:40:35 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Aug 16 01:40:35 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Aug 16 01:40:35 raspberrypi kernel: [    0.763428] dwc_otg: Microframe scheduler enabled
+Aug 16 01:40:35 raspberrypi kernel: [    0.765467] dwc_otg: FIQ enabled
+Aug 16 01:40:35 raspberrypi kernel: [    0.765471] dwc_otg: NAK holdoff enabled
+Aug 16 01:40:35 raspberrypi kernel: [    0.765475] dwc_otg: FIQ split-transaction FSM enabled
+Aug 16 01:40:35 raspberrypi kernel: [    0.765489] Module dwc_common_port init
+Aug 16 01:40:35 raspberrypi thd[341]: Found socket passed from systemd
+Nov 23 00:44:54 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 23 00:44:54 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6eec0, node_mem_map b7016000
+Nov 23 00:44:54 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 23 00:44:54 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 23 00:44:54 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 23 00:44:54 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 23 00:44:54 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 23 00:44:54 raspberrypi kernel: [    0.763501] dwc_otg: Microframe scheduler enabled
+Nov 23 00:44:54 raspberrypi kernel: [    0.765517] dwc_otg: FIQ enabled
+Nov 23 00:44:54 raspberrypi kernel: [    0.765522] dwc_otg: NAK holdoff enabled
+Nov 23 00:44:54 raspberrypi kernel: [    0.765526] dwc_otg: FIQ split-transaction FSM enabled
+Nov 23 00:44:54 raspberrypi kernel: [    0.765540] Module dwc_common_port init
+Nov 23 00:44:54 raspberrypi thd[364]: Found socket passed from systemd
+Nov 23 00:47:08 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 23 00:47:08 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6eec0, node_mem_map b7016000
+Nov 23 00:47:08 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 23 00:47:08 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 23 00:47:08 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 23 00:47:08 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 23 00:47:08 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 23 00:47:08 raspberrypi kernel: [    0.718399] dwc_otg: Microframe scheduler enabled
+Nov 23 00:47:08 raspberrypi kernel: [    0.720436] dwc_otg: FIQ enabled
+Nov 23 00:47:08 raspberrypi kernel: [    0.720440] dwc_otg: NAK holdoff enabled
+Nov 23 00:47:08 raspberrypi kernel: [    0.720444] dwc_otg: FIQ split-transaction FSM enabled
+Nov 23 00:47:08 raspberrypi kernel: [    0.720457] Module dwc_common_port init
+Nov 23 00:47:08 raspberrypi thd[332]: Found socket passed from systemd
+Nov 23 00:49:51 raspberrypi PackageKit: daemon start
+Nov 23 01:18:27 raspberrypi php7.0-common: php_invoke calendar: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:28 raspberrypi php7.0-common: php_invoke calendar: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:29 raspberrypi php7.0-common: php_invoke ctype: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:29 raspberrypi php7.0-common: php_invoke ctype: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:31 raspberrypi php7.0-common: php_invoke exif: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:31 raspberrypi php7.0-common: php_invoke exif: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:33 raspberrypi php7.0-common: php_invoke fileinfo: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:33 raspberrypi php7.0-common: php_invoke fileinfo: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:35 raspberrypi php7.0-common: php_invoke ftp: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:35 raspberrypi php7.0-common: php_invoke ftp: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:36 raspberrypi php7.0-common: php_invoke gettext: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:36 raspberrypi php7.0-common: php_invoke gettext: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:38 raspberrypi php7.0-common: php_invoke iconv: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:38 raspberrypi php7.0-common: php_invoke iconv: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:40 raspberrypi php7.0-common: php_invoke pdo: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:40 raspberrypi php7.0-common: php_invoke pdo: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:42 raspberrypi php7.0-common: php_invoke phar: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:42 raspberrypi php7.0-common: php_invoke phar: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:43 raspberrypi php7.0-common: php_invoke posix: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:43 raspberrypi php7.0-common: php_invoke posix: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:45 raspberrypi php7.0-common: php_invoke shmop: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:45 raspberrypi php7.0-common: php_invoke shmop: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:46 raspberrypi php7.0-common: php_invoke sockets: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:47 raspberrypi php7.0-common: php_invoke sockets: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:48 raspberrypi php7.0-common: php_invoke sysvmsg: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:48 raspberrypi php7.0-common: php_invoke sysvmsg: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:50 raspberrypi php7.0-common: php_invoke sysvsem: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:50 raspberrypi php7.0-common: php_invoke sysvsem: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:52 raspberrypi php7.0-common: php_invoke sysvshm: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:52 raspberrypi php7.0-common: php_invoke sysvshm: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:54 raspberrypi php7.0-common: php_invoke tokenizer: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:54 raspberrypi php7.0-common: php_invoke tokenizer: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:56 raspberrypi php7.0-xml: php_invoke dom: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:56 raspberrypi php7.0-xml: php_invoke dom: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:57 raspberrypi php7.0-xml: php_invoke simplexml: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:58 raspberrypi php7.0-xml: php_invoke simplexml: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:18:59 raspberrypi php7.0-xml: php_invoke wddx: already enabled for PHP 7.0 cli sapi
+Nov 23 01:18:59 raspberrypi php7.0-xml: php_invoke wddx: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:01 raspberrypi php7.0-xml: php_invoke xml: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:01 raspberrypi php7.0-xml: php_invoke xml: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:03 raspberrypi php7.0-xml: php_invoke xmlreader: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:03 raspberrypi php7.0-xml: php_invoke xmlreader: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:05 raspberrypi php7.0-xml: php_invoke xmlwriter: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:05 raspberrypi php7.0-xml: php_invoke xmlwriter: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:07 raspberrypi php7.0-xml: php_invoke xsl: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:07 raspberrypi php7.0-xml: php_invoke xsl: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:09 raspberrypi php7.0-mysql: php_invoke mysqlnd: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:09 raspberrypi php7.0-mysql: php_invoke mysqlnd: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:11 raspberrypi php7.0-mysql: php_invoke mysqli: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:11 raspberrypi php7.0-mysql: php_invoke mysqli: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:12 raspberrypi php7.0-mysql: php_invoke pdo_mysql: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:12 raspberrypi php7.0-mysql: php_invoke pdo_mysql: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:14 raspberrypi php7.0-readline: php_invoke readline: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:14 raspberrypi php7.0-readline: php_invoke readline: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:16 raspberrypi php7.0-opcache: php_invoke opcache: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:16 raspberrypi php7.0-opcache: php_invoke opcache: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:18 raspberrypi php7.0-gd: php_invoke gd: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:18 raspberrypi php7.0-gd: php_invoke gd: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:20 raspberrypi php7.0-json: php_invoke json: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:20 raspberrypi php7.0-json: php_invoke json: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke xsl: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke xml: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke readline: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke wddx: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke tokenizer: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke sysvmsg: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke iconv: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke fileinfo: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke phar: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke dom: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke posix: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke opcache: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke simplexml: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke sockets: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke xmlreader: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke sysvshm: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:22 raspberrypi php7.0-cli: php_invoke sysvsem: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke shmop: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke gettext: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke json: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke gd: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke pdo: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke calendar: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke mysqlnd: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke exif: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:23 raspberrypi php7.0-cli: php_invoke xmlwriter: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:24 raspberrypi php7.0-cli: php_invoke mysqli: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:24 raspberrypi php7.0-cli: php_invoke ctype: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:24 raspberrypi php7.0-cli: php_invoke ftp: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:24 raspberrypi php7.0-cli: php_invoke pdo_mysql: already enabled for PHP 7.0 cli sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke xsl: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke xml: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke readline: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke wddx: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke tokenizer: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke sysvmsg: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke iconv: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke fileinfo: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke phar: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke dom: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke posix: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:26 raspberrypi libapache2-mod-php7.0: php_invoke opcache: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke simplexml: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke sockets: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke xmlreader: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke sysvshm: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke sysvsem: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke shmop: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke gettext: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke json: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke gd: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:27 raspberrypi libapache2-mod-php7.0: php_invoke pdo: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:28 raspberrypi libapache2-mod-php7.0: php_invoke calendar: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:28 raspberrypi libapache2-mod-php7.0: php_invoke mysqlnd: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:28 raspberrypi libapache2-mod-php7.0: php_invoke exif: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:28 raspberrypi libapache2-mod-php7.0: php_invoke xmlwriter: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:28 raspberrypi libapache2-mod-php7.0: php_invoke mysqli: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:28 raspberrypi libapache2-mod-php7.0: php_invoke ctype: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:28 raspberrypi libapache2-mod-php7.0: php_invoke ftp: already enabled for PHP 7.0 apache2 sapi
+Nov 23 01:19:28 raspberrypi libapache2-mod-php7.0: php_invoke pdo_mysql: already enabled for PHP 7.0 apache2 sapi
+Nov 23 03:51:13 raspberrypi thd[324]: Found socket passed from systemd
+Nov 23 03:51:13 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 23 03:51:13 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 23 03:51:13 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 23 03:51:13 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 23 03:51:13 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 23 03:51:13 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 23 03:51:13 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 23 03:51:13 raspberrypi kernel: [    0.779817] dwc_otg: Microframe scheduler enabled
+Nov 23 03:51:13 raspberrypi kernel: [    0.815712] dwc_otg: FIQ enabled
+Nov 23 03:51:13 raspberrypi kernel: [    0.815716] dwc_otg: NAK holdoff enabled
+Nov 23 03:51:13 raspberrypi kernel: [    0.815720] dwc_otg: FIQ split-transaction FSM enabled
+Nov 23 03:51:13 raspberrypi kernel: [    0.815734] Module dwc_common_port init
+Nov 23 03:51:13 raspberrypi kernel: [    3.779682] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 23 05:02:23 raspberrypi PackageKit: daemon start
+Nov 23 05:40:13 raspberrypi php-apcu: php_invoke apcu: already enabled for PHP 7.0 cli sapi
+Nov 23 05:40:13 raspberrypi php-apcu: php_invoke apcu: already enabled for PHP 7.0 apache2 sapi
+Nov 23 05:40:14 raspberrypi php-igbinary: php_invoke igbinary: already enabled for PHP 7.0 cli sapi
+Nov 23 05:40:14 raspberrypi php-igbinary: php_invoke igbinary: already enabled for PHP 7.0 apache2 sapi
+Nov 23 05:40:15 raspberrypi php-msgpack: php_invoke msgpack: already enabled for PHP 7.0 cli sapi
+Nov 23 05:40:15 raspberrypi php-msgpack: php_invoke msgpack: already enabled for PHP 7.0 apache2 sapi
+Nov 23 05:40:19 raspberrypi php-apcu-bc: php_invoke apcu_bc: already enabled for PHP 7.0 cli sapi
+Nov 23 05:40:19 raspberrypi php-apcu-bc: php_invoke apcu_bc: already enabled for PHP 7.0 apache2 sapi
+Nov 23 05:40:23 raspberrypi php-memcached: php_invoke memcached: already enabled for PHP 7.0 cli sapi
+Nov 23 05:40:23 raspberrypi php-memcached: php_invoke memcached: already enabled for PHP 7.0 apache2 sapi
+Nov 23 05:40:23 raspberrypi php-imagick: php_invoke imagick: already enabled for PHP 7.0 cli sapi
+Nov 23 05:40:23 raspberrypi php-imagick: php_invoke imagick: already enabled for PHP 7.0 apache2 sapi
+Nov 23 06:08:00 raspberrypi thd[327]: Found socket passed from systemd
+Nov 23 06:08:00 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 23 06:08:00 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 23 06:08:00 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 23 06:08:00 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 23 06:08:00 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 23 06:08:00 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 23 06:08:00 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 23 06:08:00 raspberrypi kernel: [    0.779918] dwc_otg: Microframe scheduler enabled
+Nov 23 06:08:00 raspberrypi kernel: [    0.815828] dwc_otg: FIQ enabled
+Nov 23 06:08:00 raspberrypi kernel: [    0.815833] dwc_otg: NAK holdoff enabled
+Nov 23 06:08:00 raspberrypi kernel: [    0.815837] dwc_otg: FIQ split-transaction FSM enabled
+Nov 23 06:08:00 raspberrypi kernel: [    0.815850] Module dwc_common_port init
+Nov 23 06:08:00 raspberrypi kernel: [    4.131689] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 23 06:44:24 raspberrypi PackageKit: daemon start
+Nov 23 07:12:58 raspberrypi php7.0-mbstring: php_invoke mbstring: already enabled for PHP 7.0 cli sapi
+Nov 23 07:12:58 raspberrypi php7.0-mbstring: php_invoke mbstring: already enabled for PHP 7.0 apache2 sapi
+Nov 23 07:13:00 raspberrypi php7.0-curl: php_invoke curl: already enabled for PHP 7.0 cli sapi
+Nov 23 07:13:00 raspberrypi php7.0-curl: php_invoke curl: already enabled for PHP 7.0 apache2 sapi
+Nov 23 07:13:02 raspberrypi php7.0-zip: php_invoke zip: already enabled for PHP 7.0 cli sapi
+Nov 23 07:13:02 raspberrypi php7.0-zip: php_invoke zip: already enabled for PHP 7.0 apache2 sapi
+Nov 23 07:13:09 raspberrypi php7.0-bz2: php_invoke bz2: already enabled for PHP 7.0 cli sapi
+Nov 23 07:13:09 raspberrypi php7.0-bz2: php_invoke bz2: already enabled for PHP 7.0 apache2 sapi
+Nov 23 09:17:03 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 23 09:17:03 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 23 09:17:03 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 23 09:17:03 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 23 09:17:03 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 23 09:17:03 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 23 09:17:03 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 23 09:17:03 raspberrypi kernel: [    0.779819] dwc_otg: Microframe scheduler enabled
+Nov 23 09:17:03 raspberrypi kernel: [    0.815723] dwc_otg: FIQ enabled
+Nov 23 09:17:03 raspberrypi kernel: [    0.815728] dwc_otg: NAK holdoff enabled
+Nov 23 09:17:03 raspberrypi kernel: [    0.815732] dwc_otg: FIQ split-transaction FSM enabled
+Nov 23 09:17:03 raspberrypi kernel: [    0.815746] Module dwc_common_port init
+Nov 23 09:17:03 raspberrypi kernel: [    4.264465] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 23 09:17:03 raspberrypi thd[377]: Found socket passed from systemd
+Nov 23 13:48:18 raspberrypi xrdp-sesman[1952]: (1952)(1995743232)[DEBUG] libscp initialized
+Nov 23 13:48:32 raspberrypi PackageKit: daemon start
+Nov 23 13:53:13 raspberrypi xrdp[1965]: (1965)(1996042848)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 23 13:53:13 raspberrypi xrdp[2469]: (2469)(1996042848)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Nov 23 13:53:13 raspberrypi xrdp[2469]: (2469)(1996042848)[DEBUG] Security layer: requested 11, selected 0
+Nov 23 13:53:13 raspberrypi xrdp[2469]: (2469)(1996042848)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 23 13:53:15 raspberrypi xrdp[1965]: (1965)(1996042848)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 23 13:53:15 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Nov 23 13:53:15 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] Security layer: requested 0, selected 0
+Nov 23 13:53:17 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_000009a6_wm_login_mode_event_00000001
+Nov 23 13:53:20 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_wm_log_msg: connecting to sesman ip 127.0.0.1 port 3350
+Nov 23 13:53:20 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_wm_log_msg: sending login info to session manager, please wait...
+Nov 23 13:53:20 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] return value from xrdp_mm_connect 0
+Nov 23 13:53:23 raspberrypi xrdp-sesman[1953]: (1953)(1995743232)[DEBUG] Closed socket 8 (AF_INET6 ::1 port 3350)
+Nov 23 13:53:23 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_mm_module_cleanup
+Nov 23 13:53:23 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] Closed socket 16 (AF_INET6 ::1 port 34946)
+Nov 23 13:53:29 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_wm_log_msg: connecting to sesman ip 127.0.0.1 port 3350
+Nov 23 13:53:30 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_wm_log_msg: sending login info to session manager, please wait...
+Nov 23 13:53:30 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] return value from xrdp_mm_connect 0
+Nov 23 13:53:30 raspberrypi xrdp-sesman[1953]: (1953)(1995743232)[DEBUG] Closed socket 9 (AF_INET6 :: port 5910)
+Nov 23 13:53:30 raspberrypi xrdp-sesman[1953]: (1953)(1995743232)[DEBUG] Closed socket 9 (AF_INET6 :: port 6010)
+Nov 23 13:53:30 raspberrypi xrdp-sesman[1953]: (1953)(1995743232)[DEBUG] Closed socket 9 (AF_INET6 :: port 6210)
+Nov 23 13:53:30 raspberrypi xrdp-sesman[2479]: (2479)(1995743232)[DEBUG] Closed socket 7 (AF_INET6 ::1 port 3350)
+Nov 23 13:53:30 raspberrypi xrdp-sesman[1953]: (1953)(1995743232)[DEBUG] Closed socket 8 (AF_INET6 ::1 port 3350)
+Nov 23 13:53:30 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_wm_log_msg: started connecting
+Nov 23 13:53:31 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_wm_log_msg: connected ok
+Nov 23 13:53:31 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_mm_connect_chansrv: chansrv connect successful
+Nov 23 13:53:31 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] Closed socket 16 (AF_INET6 ::1 port 34948)
+Nov 23 13:53:31 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] The allow channel list now initialized for this session
+Nov 23 13:57:41 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 23 13:57:41 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] xrdp_mm_module_cleanup
+Nov 23 13:57:41 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] Closed socket 17 (AF_UNIX)
+Nov 23 13:57:41 raspberrypi xrdp[2470]: (2470)(1996042848)[DEBUG] Closed socket 18 (AF_UNIX)
+Nov 23 14:03:27 raspberrypi xrdp[1965]: (1965)(1996042848)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 23 14:03:27 raspberrypi xrdp[2723]: (2723)(1996042848)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Nov 23 14:03:27 raspberrypi xrdp[2723]: (2723)(1996042848)[DEBUG] Security layer: requested 11, selected 0
+Nov 23 14:03:27 raspberrypi xrdp[2723]: (2723)(1996042848)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 23 14:03:29 raspberrypi xrdp[1965]: (1965)(1996042848)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 23 14:03:29 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Nov 23 14:03:29 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] Security layer: requested 0, selected 0
+Nov 23 14:03:29 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_00000aa4_wm_login_mode_event_00000001
+Nov 23 14:03:34 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_wm_log_msg: connecting to sesman ip 127.0.0.1 port 3350
+Nov 23 14:03:34 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_wm_log_msg: sending login info to session manager, please wait...
+Nov 23 14:03:34 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] return value from xrdp_mm_connect 0
+Nov 23 14:03:37 raspberrypi xrdp-sesman[1953]: (1953)(1995743232)[DEBUG] Closed socket 8 (AF_INET6 ::1 port 3350)
+Nov 23 14:03:37 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_mm_module_cleanup
+Nov 23 14:03:37 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] Closed socket 16 (AF_INET6 ::1 port 34950)
+Nov 23 14:03:44 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_wm_log_msg: connecting to sesman ip 127.0.0.1 port 3350
+Nov 23 14:03:45 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_wm_log_msg: sending login info to session manager, please wait...
+Nov 23 14:03:45 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] return value from xrdp_mm_connect 0
+Nov 23 14:03:45 raspberrypi xrdp-sesman[1953]: (1953)(1995743232)[DEBUG] Closed socket 8 (AF_INET6 ::1 port 3350)
+Nov 23 14:03:45 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_wm_log_msg: started connecting
+Nov 23 14:03:45 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_wm_log_msg: connected ok
+Nov 23 14:03:45 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] xrdp_mm_connect_chansrv: chansrv connect successful
+Nov 23 14:03:45 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] Closed socket 16 (AF_INET6 ::1 port 34952)
+Nov 23 14:03:45 raspberrypi xrdp[2724]: (2724)(1996042848)[DEBUG] The allow channel list now initialized for this session
+Nov 23 15:16:07 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 23 15:16:07 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 23 15:16:07 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 23 15:16:07 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 23 15:16:07 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 23 15:16:07 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 23 15:16:07 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 23 15:16:07 raspberrypi thd[328]: Found socket passed from systemd
+Nov 23 15:16:07 raspberrypi kernel: [    0.779770] dwc_otg: Microframe scheduler enabled
+Nov 23 15:16:07 raspberrypi kernel: [    0.815689] dwc_otg: FIQ enabled
+Nov 23 15:16:07 raspberrypi kernel: [    0.815693] dwc_otg: NAK holdoff enabled
+Nov 23 15:16:07 raspberrypi kernel: [    0.815697] dwc_otg: FIQ split-transaction FSM enabled
+Nov 23 15:16:07 raspberrypi kernel: [    0.815711] Module dwc_common_port init
+Nov 23 15:16:07 raspberrypi kernel: [    3.758541] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 23 15:16:07 raspberrypi xrdp-sesman[375]: (375)(1995939840)[DEBUG] libscp initialized
+Nov 23 20:02:00 raspberrypi PackageKit: daemon start
+Nov 23 20:05:21 raspberrypi thd[338]: Found socket passed from systemd
+Nov 23 20:05:21 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 23 20:05:21 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 23 20:05:21 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 23 20:05:21 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 23 20:05:21 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 23 20:05:21 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 23 20:05:21 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 23 20:05:21 raspberrypi kernel: [    0.779863] dwc_otg: Microframe scheduler enabled
+Nov 23 20:05:21 raspberrypi kernel: [    0.815822] dwc_otg: FIQ enabled
+Nov 23 20:05:21 raspberrypi kernel: [    0.815827] dwc_otg: NAK holdoff enabled
+Nov 23 20:05:21 raspberrypi kernel: [    0.815831] dwc_otg: FIQ split-transaction FSM enabled
+Nov 23 20:05:21 raspberrypi kernel: [    0.815845] Module dwc_common_port init
+Nov 23 20:05:21 raspberrypi kernel: [    3.979633] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 23 20:05:21 raspberrypi xrdp-sesman[389]: (389)(1996050432)[DEBUG] libscp initialized
+Nov 24 12:42:53 raspberrypi PackageKit: daemon start
+Nov 24 16:03:16 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 24 16:03:16 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 24 16:03:16 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 24 16:03:16 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 24 16:03:16 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 24 16:03:16 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 24 16:03:16 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 24 16:03:16 raspberrypi thd[376]: Found socket passed from systemd
+Nov 24 16:03:16 raspberrypi kernel: [    0.779749] dwc_otg: Microframe scheduler enabled
+Nov 24 16:03:16 raspberrypi kernel: [    0.815647] dwc_otg: FIQ enabled
+Nov 24 16:03:16 raspberrypi kernel: [    0.815651] dwc_otg: NAK holdoff enabled
+Nov 24 16:03:16 raspberrypi kernel: [    0.815655] dwc_otg: FIQ split-transaction FSM enabled
+Nov 24 16:03:16 raspberrypi kernel: [    0.815669] Module dwc_common_port init
+Nov 24 16:03:16 raspberrypi kernel: [    3.842129] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 24 16:03:16 raspberrypi xrdp-sesman[397]: (397)(1995927552)[DEBUG] libscp initialized
+Nov 24 23:31:12 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 24 23:31:12 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 24 23:31:12 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 24 23:31:12 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 24 23:31:12 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 24 23:31:12 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 24 23:31:12 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 24 23:31:12 raspberrypi kernel: [    0.779836] dwc_otg: Microframe scheduler enabled
+Nov 24 23:31:12 raspberrypi thd[322]: Found socket passed from systemd
+Nov 24 23:31:12 raspberrypi kernel: [    0.815797] dwc_otg: FIQ enabled
+Nov 24 23:31:12 raspberrypi kernel: [    0.815802] dwc_otg: NAK holdoff enabled
+Nov 24 23:31:12 raspberrypi kernel: [    0.815806] dwc_otg: FIQ split-transaction FSM enabled
+Nov 24 23:31:12 raspberrypi kernel: [    0.815819] Module dwc_common_port init
+Nov 24 23:31:12 raspberrypi kernel: [    4.276823] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 24 23:31:13 raspberrypi xrdp-sesman[396]: (396)(1996279808)[DEBUG] libscp initialized
+Nov 24 23:55:41 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 24 23:55:41 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 24 23:55:41 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 24 23:55:41 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 24 23:55:41 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 24 23:55:41 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 24 23:55:41 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 24 23:55:41 raspberrypi kernel: [    0.779564] dwc_otg: Microframe scheduler enabled
+Nov 24 23:55:42 raspberrypi kernel: [    0.815422] dwc_otg: FIQ enabled
+Nov 24 23:55:42 raspberrypi kernel: [    0.815426] dwc_otg: NAK holdoff enabled
+Nov 24 23:55:42 raspberrypi kernel: [    0.815431] dwc_otg: FIQ split-transaction FSM enabled
+Nov 24 23:55:42 raspberrypi kernel: [    0.815444] Module dwc_common_port init
+Nov 24 23:55:42 raspberrypi kernel: [    3.914882] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 24 23:55:42 raspberrypi thd[357]: Found socket passed from systemd
+Nov 24 23:55:42 raspberrypi xrdp-sesman[401]: (401)(1996288000)[DEBUG] libscp initialized
+Nov 24 23:57:50 raspberrypi xrdp[482]: (482)(1995539040)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 24 23:57:50 raspberrypi xrdp[1028]: (1028)(1995539040)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Nov 24 23:57:50 raspberrypi xrdp[1028]: (1028)(1995539040)[DEBUG] Security layer: requested 11, selected 0
+Nov 24 23:57:50 raspberrypi xrdp[1028]: (1028)(1995539040)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 24 23:57:52 raspberrypi xrdp[482]: (482)(1995539040)[DEBUG] Closed socket 12 (AF_INET6 ::ffff:192.168.0.17 port 3389)
+Nov 24 23:57:52 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] Closed socket 11 (AF_INET6 :: port 3389)
+Nov 24 23:57:52 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] Security layer: requested 0, selected 0
+Nov 24 23:57:55 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] xrdp_00000405_wm_login_mode_event_00000001
+Nov 24 23:58:14 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] xrdp_wm_log_msg: connecting to sesman ip 127.0.0.1 port 3350
+Nov 24 23:58:14 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] xrdp_wm_log_msg: sending login info to session manager, please wait...
+Nov 24 23:58:14 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] return value from xrdp_mm_connect 0
+Nov 24 23:58:15 raspberrypi xrdp-sesman[464]: (464)(1996288000)[DEBUG] Closed socket 9 (AF_INET6 :: port 5910)
+Nov 24 23:58:15 raspberrypi xrdp-sesman[464]: (464)(1996288000)[DEBUG] Closed socket 9 (AF_INET6 :: port 6010)
+Nov 24 23:58:15 raspberrypi xrdp-sesman[464]: (464)(1996288000)[DEBUG] Closed socket 9 (AF_INET6 :: port 6210)
+Nov 24 23:58:15 raspberrypi xrdp-sesman[1035]: (1035)(1996288000)[DEBUG] Closed socket 7 (AF_INET6 ::1 port 3350)
+Nov 24 23:58:15 raspberrypi xrdp-sesman[464]: (464)(1996288000)[DEBUG] Closed socket 8 (AF_INET6 ::1 port 3350)
+Nov 24 23:58:15 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] xrdp_wm_log_msg: started connecting
+Nov 24 23:58:15 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] xrdp_wm_log_msg: connected ok
+Nov 24 23:58:15 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] xrdp_mm_connect_chansrv: chansrv connect successful
+Nov 24 23:58:15 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] Closed socket 16 (AF_INET6 ::1 port 43972)
+Nov 24 23:58:16 raspberrypi xrdp[1029]: (1029)(1995539040)[DEBUG] The allow channel list now initialized for this session
+Nov 25 00:04:41 raspberrypi thd[343]: Found socket passed from systemd
+Nov 25 00:04:41 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 25 00:04:41 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 25 00:04:41 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 25 00:04:41 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 25 00:04:41 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 25 00:04:41 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 25 00:04:41 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 25 00:04:41 raspberrypi kernel: [    0.779966] dwc_otg: Microframe scheduler enabled
+Nov 25 00:04:41 raspberrypi kernel: [    0.815841] dwc_otg: FIQ enabled
+Nov 25 00:04:41 raspberrypi kernel: [    0.815846] dwc_otg: NAK holdoff enabled
+Nov 25 00:04:41 raspberrypi kernel: [    0.815850] dwc_otg: FIQ split-transaction FSM enabled
+Nov 25 00:04:41 raspberrypi kernel: [    0.815863] Module dwc_common_port init
+Nov 25 00:04:41 raspberrypi kernel: [    4.180728] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 25 00:04:42 raspberrypi xrdp-sesman[421]: (421)(1995436032)[DEBUG] libscp initialized
+Nov 25 02:40:33 raspberrypi kernel: [    0.000000] On node 0 totalpages: 229376
+Nov 25 02:40:33 raspberrypi kernel: [    0.000000] free_area_init_node: node 0, pgdat 80c6f380, node_mem_map b7016000
+Nov 25 02:40:33 raspberrypi kernel: [    0.000000]   Normal zone: 2016 pages used for memmap
+Nov 25 02:40:33 raspberrypi kernel: [    0.000000]   Normal zone: 0 pages reserved
+Nov 25 02:40:33 raspberrypi kernel: [    0.000000]   Normal zone: 229376 pages, LIFO batch:31
+Nov 25 02:40:33 raspberrypi kernel: [    0.000000] pcpu-alloc: s25600 r8192 d23552 u57344 alloc=14*4096
+Nov 25 02:40:33 raspberrypi kernel: [    0.000000] pcpu-alloc: [0] 0 [0] 1 [0] 2 [0] 3 
+Nov 25 02:40:33 raspberrypi thd[356]: Found socket passed from systemd
+Nov 25 02:40:33 raspberrypi kernel: [    0.769392] dwc_otg: Microframe scheduler enabled
+Nov 25 02:40:33 raspberrypi kernel: [    0.834185] dwc_otg: FIQ enabled
+Nov 25 02:40:33 raspberrypi kernel: [    0.834190] dwc_otg: NAK holdoff enabled
+Nov 25 02:40:33 raspberrypi kernel: [    0.834194] dwc_otg: FIQ split-transaction FSM enabled
+Nov 25 02:40:33 raspberrypi kernel: [    0.834208] Module dwc_common_port init
+Nov 25 02:40:33 raspberrypi kernel: [    4.528021] brcmfmac: F1 signature read @0x18000000=0x1541a9a6
+Nov 25 02:40:33 raspberrypi xrdp-sesman[397]: (397)(1996087296)[DEBUG] libscp initialized
+Nov 25 02:43:24 raspberrypi kernel: [  177.190880] sd 0:0:0:0: [sda] Mode Sense: 43 00 00 00

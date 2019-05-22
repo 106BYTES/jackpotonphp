@@ -1,0 +1,12 @@
+597f08815c47fac7ab1d1fb125094abb  lib/systemd/system/bluealsa.service
+827433ec872944e01ff2bb016b478261  usr/bin/bluealsa
+4f7f848462c4dc9299b8e14f4a6e3928  usr/bin/bluealsa-aplay
+58e070ff7f16eb6739fa868322d22cf0  usr/lib/arm-linux-gnueabihf/alsa-lib/libasound_module_ctl_bluealsa.a
+eb5d07a8e311ffcc58894070205b3a45  usr/lib/arm-linux-gnueabihf/alsa-lib/libasound_module_ctl_bluealsa.la
+0954101e5dc02510c04ee49472ed8ac1  usr/lib/arm-linux-gnueabihf/alsa-lib/libasound_module_ctl_bluealsa.so
+41f0cb76f45bbec83d4827f0b8ac7fc1  usr/lib/arm-linux-gnueabihf/alsa-lib/libasound_module_pcm_bluealsa.a
+efc4d5a95a19755411bada7c224c9820  usr/lib/arm-linux-gnueabihf/alsa-lib/libasound_module_pcm_bluealsa.la
+2fd7f58e0ca3ae4024b104094844bf86  usr/lib/arm-linux-gnueabihf/alsa-lib/libasound_module_pcm_bluealsa.so
+05c5d6f1bef27ad6b395252010805100  usr/share/alsa/alsa.conf.d/20-bluealsa.conf
+a9a006ef960e86d5f16eac3da054279b  usr/share/doc/bluealsa/changelog.gz
+f0768b2d91dd640c14969dbbbcebc14f  usr/share/doc/bluealsa/copyright

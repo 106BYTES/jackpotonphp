@@ -1,0 +1,10 @@
+c62ce393bfd8c9a1e4c30d2200c3a4e7  usr/share/doc/libservlet3.1-java/changelog.Debian.gz
+8acc797a75ba17a84e70b6e12fa79d30  usr/share/doc/libservlet3.1-java/copyright
+13b56ccabf1d30ff888a4761e61186fb  usr/share/java/el-api-3.0.jar
+98663f5a9e31a2f83bbf9d73603ce0ee  usr/share/java/jsp-api-2.3.jar
+dde98f4ab96889ad6f5b16b8a7753c4e  usr/share/java/servlet-api-3.1.jar
+14b07c3624e1365c66b4c77789fbcde8  usr/share/java/websocket-api-1.0.jar
+0fccce6aae47851288ac85fc01c70f23  usr/share/maven-repo/javax/el/javax.el-api/3.0/javax.el-api-3.0.pom
+7db3e97d035d81afb11f67095ab9891c  usr/share/maven-repo/javax/servlet/javax.servlet-api/3.1/javax.servlet-api-3.1.pom
+64b8c07786aabc43206cb8f23f9ae2d4  usr/share/maven-repo/javax/servlet/jsp/javax.servlet.jsp-api/2.3/javax.servlet.jsp-api-2.3.pom
+92302fdef74de97a18e2545b134b4893  usr/share/maven-repo/javax/websocket/javax.websocket-api/1.0/javax.websocket-api-1.0.pom

@@ -1,0 +1,11 @@
+ff36a234b159bb3a97d1ee048969b22d  usr/lib/erlang/lib/crypto-3.7.2/ebin/crypto.app
+407a8719006a9910d614e6fe3b4072ca  usr/lib/erlang/lib/crypto-3.7.2/ebin/crypto.appup
+3d144355af388778f028fcc3c3d76fcf  usr/lib/erlang/lib/crypto-3.7.2/ebin/crypto.beam
+df3b022009f2bca47dfb20e4f70362d6  usr/lib/erlang/lib/crypto-3.7.2/ebin/crypto_ec_curves.beam
+71919217d7368a85ece7fcd583f90034  usr/lib/erlang/lib/crypto-3.7.2/priv/lib/crypto.so
+2f3f5d050c25506d7dc2a6732ab20a6a  usr/lib/erlang/lib/crypto-3.7.2/priv/lib/crypto_callback.so
+347b7bf0bcab54d8a3779feb93ba4efa  usr/share/doc/erlang-crypto/AUTHORS.gz
+fe0febacc5237d4c6cbf7a9542870a42  usr/share/doc/erlang-crypto/README.Debian.gz
+9493e5315a09aba1301bd28d0ae2afee  usr/share/doc/erlang-crypto/TODO.Debian
+0d8de3b1401c85f7b3f7e23b57b76c07  usr/share/doc/erlang-crypto/changelog.Debian.gz
+86bc90ba901eaab38775a7053bb84fc8  usr/share/doc/erlang-crypto/copyright

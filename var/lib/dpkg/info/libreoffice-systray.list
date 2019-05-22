@@ -1,0 +1,15 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libreoffice
+/usr/lib/libreoffice/program
+/usr/lib/libreoffice/program/libqstart_gtklo.so
+/usr/lib/libreoffice/share
+/usr/lib/libreoffice/share/xdg
+/usr/lib/libreoffice/share/xdg/qstart.desktop
+/usr/share
+/usr/share/bug
+/usr/share/bug/libreoffice-systray
+/usr/share/bug/libreoffice-systray/presubj
+/usr/share/doc
+/usr/share/doc/libreoffice-systray

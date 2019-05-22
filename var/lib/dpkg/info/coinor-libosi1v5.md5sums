@@ -1,0 +1,6 @@
+08d979937dc1e0ca6285bb60d0a7858a  usr/lib/arm-linux-gnueabihf/libOsi.so.1.11.9
+2dc17296718e3d12dd88ad67ed1c85fd  usr/lib/arm-linux-gnueabihf/libOsiCommonTests.so.1.11.9
+3d42c9e6051247ae01fbf0a43e972219  usr/share/doc/coinor-libosi1v5/changelog.Debian.gz
+6a54f470c89c4a5cc093620faeddb306  usr/share/doc/coinor-libosi1v5/changelog.gz
+6fb18ccfcbaf9da4ed69089afb41da5b  usr/share/doc/coinor-libosi1v5/copyright
+c0e90fa63b9f98fb39dddc4fd81d27c5  usr/share/lintian/overrides/coinor-libosi1v5

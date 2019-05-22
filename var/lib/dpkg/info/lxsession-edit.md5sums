@@ -1,0 +1,7 @@
+cc9c23d9454d373c9982db85f1b0e481  usr/bin/lxsession-edit
+b9acb7831e67f42d58102b313eba1b81  usr/share/applications/lxsession-edit.desktop
+aecb9c92c9ad53733ce19a5cf1a7260a  usr/share/doc/lxsession-edit/changelog.Debian.gz
+f960cc74594d814101948d625cb12b95  usr/share/doc/lxsession-edit/changelog.gz
+2f349c175346111e31650c590312ea12  usr/share/doc/lxsession-edit/copyright
+c8ba0a6094bc0ee4ddeb5fdd58c909d9  usr/share/lxsession/ui/lxsession-edit.ui
+865ff155c065b47877fbdc91e9256649  usr/share/man/man1/lxsession-edit.1.gz

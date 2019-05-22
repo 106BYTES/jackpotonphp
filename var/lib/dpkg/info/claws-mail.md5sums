@@ -1,0 +1,17 @@
+346547d47ad72c854969d23f0fe789e0  usr/bin/claws-mail
+237fc6d4f9425bb2a34130ac60d539fe  usr/share/applications/claws-mail.desktop
+620e9f1c2d9707df6d1db05a40f225dd  usr/share/doc/claws-mail/AUTHORS.gz
+b087eff8fdd0b25af558498800b9a482  usr/share/doc/claws-mail/NEWS.gz
+06030e5e73c1475df234f8f37a5ef41a  usr/share/doc/claws-mail/README.Debian
+cf99773bc47da41ae52f3d43a02a0964  usr/share/doc/claws-mail/README.gz
+a50155a0e656f429fa387998c0fa9875  usr/share/doc/claws-mail/RELEASE_NOTES.gz
+4a363df1d6f4ef73e2d7f2698302e63d  usr/share/doc/claws-mail/TODO
+9bb0850e63dbdc30301e5fa3b8a31452  usr/share/doc/claws-mail/changelog.Debian.gz
+23d6ed083e73f3fcbb82bad129fce5eb  usr/share/doc/claws-mail/changelog.gz
+2925f1bbe230fe1e14c076268439de19  usr/share/doc/claws-mail/copyright
+c8288cf1a7c06cdb73115327f5a8e7f4  usr/share/icons/hicolor/128x128/apps/claws-mail.png
+7fc78a75f25794504ca38702a0b1641a  usr/share/icons/hicolor/48x48/apps/claws-mail.png
+f4649e04c5ce88e2729b0e8808fcc6a2  usr/share/icons/hicolor/64x64/apps/claws-mail.png
+d098c65655592924e15dcea7727b62fe  usr/share/lintian/overrides/claws-mail
+d86dcc0ca9817a1cbb60b2a43d3fec02  usr/share/man/man1/claws-mail.1.gz
+179f8fbb1fa075573616c1ea0f82f173  usr/share/pixmaps/claws-mail-32x32.xpm

@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/arm-linux-gnueabihf
+/usr/lib/arm-linux-gnueabihf/lxpanel
+/usr/lib/arm-linux-gnueabihf/lxpanel/plugins
+/usr/lib/arm-linux-gnueabihf/lxpanel/plugins/dhcpcdui.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/lxplug-network
+/usr/share/doc/lxplug-network/changelog.gz
+/usr/share/doc/lxplug-network/copyright
+/usr/share/locale
+/usr/share/locale/en_GB
+/usr/share/locale/en_GB/LC_MESSAGES
+/usr/share/locale/en_GB/LC_MESSAGES/lxplug_network.mo

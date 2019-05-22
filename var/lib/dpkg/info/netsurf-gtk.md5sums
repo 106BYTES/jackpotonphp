@@ -1,0 +1,8 @@
+55198d4c0edb286255e0da3678384d32  usr/bin/netsurf-gtk
+69745ffa76bd6a0233369e41fd9bcfcb  usr/share/applications/netsurf-gtk.desktop
+562c618e9fda03970605c588104d22ab  usr/share/doc/netsurf-gtk/changelog.Debian.gz
+7e3593c10437afcf007e955ef6b73a84  usr/share/doc/netsurf-gtk/copyright
+e62920f567acc7f85b91b2c53132d837  usr/share/man/man1/netsurf-gtk.1.gz
+e15175eee35d4d23ad6635c24cd31780  usr/share/menu/netsurf-gtk
+0b4f5cc3ec5bd12447a24c5ec553bc4a  usr/share/pixmaps/netsurf.png
+c8ca5cd15777925e112a52d0b18f67ce  usr/share/pixmaps/netsurf.xpm
